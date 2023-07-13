@@ -22,10 +22,10 @@ Work experience
   * Research topic: Graph Representation Learning, Dynamic Graph, Machine Learning.
   * Supervisor: Professor Viet Cuong Ta
 
-* May 2022 - March 2023: Fellow
+<!-- * May 2022 - March 2023: Fellow
   * Fatima Fellowship
   * Research topic: Sampling for training Graph Neural Networks.
-  * Mentor:  Muhammed Fatih Bali
+  * Mentor:  Muhammed Fatih Balin -->
   
 <!-- Skills
 ======
@@ -42,18 +42,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  Update soon!
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Review for academic journals:  IEEE TNNLS
