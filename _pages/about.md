@@ -9,7 +9,13 @@ redirect_from:
 ---
 
 # About me
-I am currently a Research Assistant and also a Master's student under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/) at UET- VNU Hanoi.
+I recieved  Master Degree of Computer Science under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/) at UET- VNU Hanoi.
 
 My research interests lie on the expressiveness, scalability, interpretability, and robustness of Graph Neural Networks (GNNs) architectures.
-I am also interested in working with trustworthy graph learning, such as those that prioritize privacy and fairness.
+I am also interested in working with trustworthy machine learning, such as those that prioritize privacy and fairness.
+
+## News
+- **November 2023**: I am going to join the [FANG Lab](https://www.yfang.site/group) at SMU as a Research Engineer to work with [Dr. Yuxia Wu](yuxiawu.github.io) under superivion of [Prof. Yuan Fang](https://www.yfang.site/).
+- **August 2023**: I have successfully defended my master's thesis.
+
+
