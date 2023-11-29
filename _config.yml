@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "vi-VN"
+locale                   : "sg-SG"
 title                    : "Thi Linh Hoang"
 title_separator          : "-"
 name                     : &name "Thi Linh Hoang"
@@ -83,11 +83,11 @@ author:
   name             : "Thi Linh Hoang"
   avatar           : "profile.jpg"
   bio              : "A seed is sleepy"
-  location         : "Hanoi, Vietnam"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KBNwTfgAAAAJ&hl=en"
-  email            : "hoanglinh@vnu.edu.vn"
+  email            : "htlinh83@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "linhthi"
   google_plus      :
   keybase          :
-  instagram        : "linhthih"
+  instagram        : #"linhthih"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/linhhoang99/"
