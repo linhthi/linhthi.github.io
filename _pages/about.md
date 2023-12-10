@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 # About me
-I recieved  Master Degree of Computer Science under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/) at UET- VNU Hanoi.
+I’m currently a Research Engineer at [Singapore Management University](https://www.smu.edu.sg/), supervised by [Prof. Yuan Fang](https://www.yfang.site/). 
+
+Before that, I obtained my MSc and BSc. Degree at [University of Engineering and Technology- VNU Hanoi](https://uet.vnu.edu.vn/) under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/).
 
 My research interests lie on the expressiveness, scalability, interpretability, and robustness of Graph Neural Networks (GNNs) architectures.
 I am also interested in working with trustworthy machine learning, such as those that prioritize privacy and fairness.

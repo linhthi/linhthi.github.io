@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Technology, VNU University of Engineering and Technology, 2021
 * M.S. in Computer Science, VNU University of Engineering and Technology, 2023
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.S. in Information Technology, VNU University of Engineering and Technology, 2021
 
 Work experience
 ======
-* Summer 2020 - now: Research Assistant
-  * VNU University of Engineering and Technology
-  * Research topic: Graph Representation Learning, Dynamic Graph, Machine Learning.
-  * Supervisor: Professor Viet Cuong Ta
 
-<!-- * May 2022 - March 2023: Fellow
+* Dec 2023 - now: Research Engineer
+  * Singapore Management University
+  * Research topic: Dynamic Graph Learning
+  * Supervisor:  Prof. Yuan FANG
+
+* May 2022 - now: Fellow
   * Fatima Fellowship
   * Research topic: Sampling for training Graph Neural Networks.
-  * Mentor:  Muhammed Fatih Balin -->
+  * Mentor:  Muhammed Fatih Balin
+
+* June 2020 - Nov 2023: Research Assistant
+  * VNU University of Engineering and Technology
+  * Research topic: Graph Representation Learning, Dynamic Graph, Machine Learning.
+  * Supervisor: Prof. Viet Cuong Ta
   
 <!-- Skills
 ======
