@@ -13,8 +13,10 @@ I’m currently a Research Engineer at [Singapore Management University](https:/
 
 Before that, I obtained my MSc and BSc. Degree at [University of Engineering and Technology- VNU Hanoi](https://uet.vnu.edu.vn/) under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/).
 
-My research interests lie on the expressiveness, scalability, interpretability, and robustness of Graph Neural Networks (GNNs) architectures.
-I am also interested in working with trustworthy machine learning, such as those that prioritize privacy and fairness.
+My research interests lie on the expressiveness, scalability, interpretability, and robustness of graph learning models.
+I am also interested in working with probabilistic machine learning focus on deep generative models, probabilistic modeling, and uncertainty quantification.
+
+Outside the lab, I enjoy cycling, painting, and gardening.
 
 ## News
 - **November 2023**: I am going to join the [FANG Lab](https://www.yfang.site/group) at SMU as a Research Engineer to work with [Dr. Yuxia Wu](https://yuxiawu.github.io) under superivion of [Prof. Yuan Fang](https://www.yfang.site/).
