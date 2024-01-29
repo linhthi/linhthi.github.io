@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Thi Linh Hoang
+
+My latest [CV](https://linhthi.github.io/files/CV_ThiLinhHoang.pdf).
+
 Education
 ======
 * M.S. in Computer Science, VNU University of Engineering and Technology, 2023
