@@ -9,4 +9,4 @@ venue: 'Pacific Rim International Conference on Artificial Intelligence (PRICAI)
 citation: 'T. L. Hoang, and V. C. Ta, "Dynamic-GTN: Learning an Node Efficient Embedding in Dynamic Graph with Transformer", PRICAI 2022.'
 ---
 
-[Pdf](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/4776/1/PRICAI_2022_paper_119%20%281%29.pdf)
+**T. L. Hoang**, and V. C. Ta. [[Pdf](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/4776/1/PRICAI_2022_paper_119%20%281%29.pdf), Code, Presentation]
