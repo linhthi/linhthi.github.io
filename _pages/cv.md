@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 
-* Dec 2023 - now: Research Engineer
+* Dec 2023 - Mar 2024: Research Engineer
   * Singapore Management University
   * Research topic: Dynamic Graph Learning
   * Supervisor:  Prof. Yuan FANG
