@@ -11,7 +11,7 @@ redirect_from:
 # About me
 I obtained my MSc. Degree of Computer Science and BSc. Degree of Information Technology at [University of Engineering and Technology- VNU Hanoi](https://uet.vnu.edu.vn/) in 2023 and 2021 respectively under the supervision of [Dr. Viet Cuong Ta](https://uet.vnu.edu.vn/~cuongtv/).
 
-Currently, I worked as a Research Engineer (Dec 2023 - March 2024) at [Singapore Management University](https://www.smu.edu.sg/), supervised by [Prof. Yuan Fang](https://www.yfang.site/). 
+Currently, I worked as a Research Engineer (December 2023 - March 2024) at [Singapore Management University](https://www.smu.edu.sg/), supervised by [Prof. Yuan Fang](https://www.yfang.site/). 
 
 My research interests lie on the expressiveness, scalability, interpretability, and robustness of graph learning models.
 I am also interested in working with probabilistic machine learning focus on deep generative models, probabilistic modeling, and uncertainty quantification.
