@@ -25,42 +25,5 @@
   All opinions, findings, conclusions and recommendations expressed on this site are personal views, and do not reflect the views of any employer or funder.
 </div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-<div class="page__footer-copyright">
-  <script>
-    // Get the user's IP address and timezone
-    fetch('https://ipapi.co/json/')
-      .then(response => response.json())
-      .then(data => {
-        var userTimezone = data.timezone;
-  
-        // Format the date and time with the user's timezone
-        var updatedAt = new Date().toLocaleString('en-US', { timeZone: userTimezone });
-        updatedAt = new Date(updatedAt).toLocaleString('en-US', { 
-          month: 'long', 
-          day: 'numeric', 
-          year: 'numeric',
-          hour: 'numeric',
-          minute: 'numeric',
-          second: 'numeric',
-          timeZoneName: 'short'
-        });
-  
-        // Add the updated date and time to the HTML
-        document.write('Last updated on ' + updatedAt + '.');
-      })
-      .catch(error => {
-        console.error('Error fetching user location:', error);
-        // Fallback to default timezone
-        var updatedAt = new Date().toLocaleString('en-US', { 
-          month: 'long', 
-          day: 'numeric', 
-          year: 'numeric',
-          hour: 'numeric',
-          minute: 'numeric',
-          second: 'numeric',
-          timeZoneName: 'short'
-        });
-        document.write('Last updated on ' + updatedAt + '.');
-      });
-  </script>
-</div>
+<!-- <div class="page__footer-copyright">Last updated on {{ site.time | date: '%B %d, %Y at %I:%M:%S %p %Z' }}.</div> -->
+<div class="page__footer-copyright">Last updated on {{ site.time | date_to_long_string: "ordinal", "GMT+7" }}</div>
