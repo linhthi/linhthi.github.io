@@ -11,7 +11,7 @@ redirect_from:
 
 # Thi Linh Hoang
 
-My latest [CV](https://linhthi.github.io/files/CV_ThiLinhHoang.pdf).
+<!-- My latest [CV](https://linhthi.github.io/files/CV_ThiLinhHoang.pdf). -->
 
 Education
 ======
@@ -31,7 +31,7 @@ Work experience
   * Research topic: Sampling for training Graph Neural Networks.
   * Mentor:  Muhammed Fatih Balin
 
-* June 2020 - Nov 2023: Research Assistant
+* June 2020 - now: Research Assistant
   * VNU University of Engineering and Technology
   * Research topic: Graph Representation Learning, Dynamic Graph, Machine Learning.
   * Supervisor: Prof. Viet Cuong Ta
@@ -47,6 +47,7 @@ Work experience
 
 Publications
 ======
+Last updated (December 2022). To reach out all my current publications, you can see at my [Google Scholar](https://scholar.google.com/citations?user=KBNwTfgAAAAJ&hl=en).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -57,12 +58,11 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Teaching
+Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+* Tutor for undergraduate courses: Artificial Intelligence, Machine Learning, Computer Networking, Data Structure & Algorithm, and Introduction to Programming.
+
   
 Service
 ======
-* Review for academic journals:  IEEE TNNLS
+* Reviewer for academic journals:  IEEE Transactions on Neural Networks and Learning Systems , Expert Systems with Applications.P
