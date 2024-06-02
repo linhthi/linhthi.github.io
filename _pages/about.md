@@ -16,10 +16,13 @@ Currently, I worked as a Research Engineer (December 2023 - March 2024) at [Sing
 My research interests lie on the expressiveness, scalability, interpretability, and robustness of graph learning models.
 I am also interested in working with probabilistic machine learning focus on deep generative models, probabilistic modeling, and uncertainty quantification.
 
-Outside the lab, I enjoy cycling, painting, and gardening.
+<!-- Outside the lab, I enjoy cycling, painting, and gardening. -->
+
+*I'm looking for a PhD/RA position in field of data mining/machine learning*.
 
 ## News
 - **November 2023**: I am going to join the [FANG Lab](https://www.yfang.site/group) at SMU as a Research Engineer to work with [Dr. Yuxia Wu](https://yuxiawu.github.io) under superivion of [Prof. Yuan Fang](https://www.yfang.site/).
 - **August 2023**: I have successfully defended my master's thesis.
+- **April 2023**: One paper (1st submission to ICML ever) was rejected.
 
 
