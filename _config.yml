@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thi Linh Hoang"
   avatar           : "profile.jpg"
-  bio              : "A seed is sleepy"
+  bio              : # "A seed is sleepy"
   location         : "Singapore"
   employer         :
   pubmed           : 
