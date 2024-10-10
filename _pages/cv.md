@@ -15,23 +15,29 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, VNU University of Engineering and Technology, 2023
-* B.S. in Information Technology, VNU University of Engineering and Technology, 2021
+* VNU University of Engineering and Technology
+  * MSc in Computer Science, 2021-2023
+  * BSc in Information Technology, 2017-2021
 
 Work experience
 ======
+* Aug 2024 - now: Research Engineer
+  * Singapore Management University
+  * Research Project: Enabling Sustainable Point-to-Point Transport Service via Behavioral Game Theory.
+  * Supervisor:  Prof. Shih-Fen Cheng
 
 * Dec 2023 - Mar 2024: Research Engineer
   * Singapore Management University
-  * Research topic: Dynamic Graph Learning
+  * Research Project: Learning with Less Data.
   * Supervisor:  Prof. Yuan FANG
+  * Mentor: Dr. Yuxia Wu
 
-* May 2022 - now: Fellow
+* May 2022 - Mar 2023: Fellow
   * Fatima Fellowship
-  * Research topic: Sampling for training Graph Neural Networks.
-  * Mentor:  Muhammed Fatih Balin
+  * Research Project: Sampling for training Graph Neural Networks.
+  * Mentor:  PhD Candidate. Muhammed Fatih Balin
 
-* June 2020 - now: Research Assistant
+* Jun 2020 - Nov 2023: Research Assistant
   * VNU University of Engineering and Technology
   * Research topic: Graph Representation Learning, Dynamic Graph, Machine Learning.
   * Supervisor: Prof. Viet Cuong Ta
