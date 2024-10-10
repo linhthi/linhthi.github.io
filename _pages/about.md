@@ -21,8 +21,8 @@ My research interests are graph learning, generative models, stochastic algorith
 *I'm looking for a PhD position in Computer Science, Operations Research, or Financial Engineering starting in August 2025*.
 
 ## News
--- **September 2024**: One paper is accpted to ACML 2024.
--- **August 2024**: Start a new position at SMU Urban Institute.
+- **September 2024**: One paper is accpted to ACML 2024.
+- **August 2024**: Start a new position at SMU Urban Institute.
 - **August 2023**: I have successfully defended my master's thesis.
 - **April 2023**: One paper (1st submission to ICML ever) was rejected.
 
