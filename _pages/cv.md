@@ -21,19 +21,16 @@ Education
 
 Work experience
 ======
-* Aug 2024 - now: Research Engineer
-  * Singapore Management University
+* Aug 2024 - now: Research Engineer, Singapore Management University
   * Research Project: Enabling Sustainable Point-to-Point Transport Service via Behavioral Game Theory.
   * Supervisor:  Prof. Shih-Fen Cheng
 
-* Dec 2023 - Mar 2024: Research Engineer
-  * Singapore Management University
+* Dec 2023 - Mar 2024: Research Engineer, Singapore Management University
   * Research Project: Learning with Less Data.
   * Supervisor:  Prof. Yuan FANG
   * Mentor: Dr. Yuxia Wu
 
-* May 2022 - Mar 2023: Fellow
-  * Fatima Fellowship
+* May 2022 - Mar 2023: Fellow, Fatima Fellowship
   * Research Project: Sampling for training Graph Neural Networks.
   * Mentor:  PhD Candidate. Muhammed Fatih Balin
 
